@@ -1,0 +1,22 @@
+{
+  "name": "util-erp",
+  "version": "1.0.0",
+  "description": "Utileria para consulta de DNI Y RUC",
+  "main": "lib/index",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "LEONEL HS",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "cheerio": "^1.0.0-rc.3",
+    "jszip": "^3.2.1",
+    "request": "^2.88.0"
+  }
+}
